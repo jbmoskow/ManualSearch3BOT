@@ -5,7 +5,7 @@ Download ThreeBot_MAIN.m, ThreeBot_Analysis.m, ThreeBot_Exemplar.m, and ThreeBot
 
 To prepare to run the code in ThreeBot_MAIN.m on Line 32 and 33, the following lines need to be updated:
 
-'''
+'''matlab
 procDir = 'C:/Users/Joshua/Desktop/Data/';
 workDir = 'C:/Users/Joshua/Desktop';
 '''
